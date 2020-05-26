@@ -1,0 +1,15 @@
+assignment #2
+generating dataset more or less correctly
+lstm discriminator
+should i limit the size of the generator input
+has anyone thought about training models in virtual environments then using model in real world app
+how to see comments on proposal
+
+
+for stateful use overlap
+for stateless no overlap
+
+for m in musics
+	reset_state
+	for s in segments
+		fit(s)
